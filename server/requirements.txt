@@ -1,7 +1,7 @@
 bcrypt
 celery
 coverage
-cryptography==2.1.4
+cryptography==3.2
 flask
 flask-breadcrumbs
 flask-caching
